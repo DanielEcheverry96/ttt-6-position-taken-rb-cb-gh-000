@@ -6,7 +6,7 @@ def position_taken?(board, index)
     ishere
   elsif board[index] == nif
     isHere
-  else 
+  else
     !isHere
   end
 end
